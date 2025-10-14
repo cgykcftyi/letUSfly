@@ -1,4 +1,6 @@
-name = "v20250907"
+# wrangler.toml
+name = 'dawn-mountain-bfd1'
 main = "_worker.js"
 compatibility_date = "2025-09-07"
+
 keep_vars = true
